@@ -6,7 +6,6 @@ Telegram bot, mis aitab jälgida harjumusi.
 
 ## Funktsionaalsus
 - Harjumuse lisamine
-- Päeva märkimine
 - Statistika kuvamine
 
 ## Kasutamine
